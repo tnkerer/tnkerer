@@ -7,4 +7,6 @@
   
   ### Helpful Stuff
   
+  ```csh
   git log --all --full-history -- "**/file-name.*"
+```
