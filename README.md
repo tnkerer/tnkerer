@@ -7,6 +7,14 @@
   
   ### Helpful Stuff
   
+  Find deleted files in the project historical data
+  
   ```csh
   git log --all --full-history -- "**/file-name.*"
-```
+  ```
+
+  Create a new branch from uncommited changes
+  
+  ```csh
+  git switch -c <new-branch>
+  ```
