@@ -18,3 +18,15 @@
   ```csh
   git switch -c <new-branch>
   ```
+
+  Change remote URL
+  
+   ```csh
+  git remote set-url origin https://git-repo/new-repository.git
+   ```
+  
+  Undo staged commit
+  
+  ```csh
+  git reset HEAD~1
+   ```
