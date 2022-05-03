@@ -30,3 +30,9 @@
   ```csh
   git reset HEAD~1
    ```
+  
+  Create new git upstream
+  
+ ```csh
+  git push --set-upstream origin master
+  ```
