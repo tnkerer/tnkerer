@@ -30,8 +30,6 @@
   <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
-  </p>
-<p align="center">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
