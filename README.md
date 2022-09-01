@@ -27,6 +27,7 @@
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/menezesphill/application_utils/main/hardhaticon.png" alt="Hardhat" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
+  <br>
   <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
@@ -47,5 +48,12 @@
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" style="margin-right: 1rem;"/>
+  </a>
+  <br>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40" style="margin-right: 1rem;"/>
+  </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
 </p>
