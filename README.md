@@ -60,3 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MatLab" width="40" height="40" style="margin-right: 1rem;"/>
   </a>  
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=menezesphill&label=Hello!+Visitor+Number&style=plastic&color=brightgreen">
+</p>
