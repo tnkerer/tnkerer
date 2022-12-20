@@ -1,4 +1,9 @@
-
+<div align="center">
+  <a href="https://github.com/menezesphill">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=menezesphill&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezesphill&layout=compact&langs_count=6&theme=dracula"/>
+</div>
+  
 </br>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
