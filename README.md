@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/menezesphill">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=menezesphill&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezesphill&layout=compact&langs_count=6&theme=dracula"/>
+  <a href="https://github.com/tnkerer">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tnkerer&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnkerer&layout=compact&langs_count=6&theme=dracula"/>
 </div>
   
 </br>
@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/trufflesuite/ganache/develop/docs/assets/img/truffle-logo-dark.svg" alt="Truffle" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/menezesphill/application_utils/main/hardhaticon.png" alt="Hardhat" width="40" height="40" style="margin-right: 1rem;"/>
+  <img src="https://raw.githubusercontent.com/tnkerer/application_utils/main/hardhaticon.png" alt="Hardhat" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <br>
   <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
