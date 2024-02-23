@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" style="margin-right: 1rem;"/>
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/78161484/199641340-d7b3f519-e30d-4f35-a870-8232d2f7ffeb.svg" alt="Prisma" width="40" height="40" style="margin-right: 1rem;"/>
