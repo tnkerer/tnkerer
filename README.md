@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40" height="40" style="margin-right: 1rem;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="margin-right: 1rem;"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
   <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS" width="40" height="40" style="margin-right: 1rem;"/>
